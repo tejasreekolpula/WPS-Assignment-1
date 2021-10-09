@@ -1,0 +1,23 @@
+#pic{
+    border-radius: 1S00px;
+    width:350px;
+    height: 350px;
+    right:60px;
+    top:30px;
+    position: absolute;
+    border: 7px solid rgb(37, 37, 41);
+  }
+  
+  body{
+    background-color:AntiqueWhite;
+    margin: 40px 80px 40px 100px;
+  }
+  
+  #personal
+  {
+    font-size: 30px;
+    color:black;
+    line-height: 45px;
+  }
+  
+  

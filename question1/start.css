@@ -1,0 +1,31 @@
+#title{
+    font-size: 50px;
+}
+  
+  body{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    background-color: #ffffff;
+    margin : 30px 30px 20px 30px;
+  }
+  
+  #menu table td{
+    background-color: #000094;
+    color: #ffffff;
+    padding: 20px 40px;
+    font-size: 25px;
+    border: 1px solid black;
+  }
+  
+  #menu a{
+    color: white;
+    text-decoration: none;
+  }
+  
+ 

@@ -1,0 +1,58 @@
+table{
+    border: 2px solid black;
+  }
+  
+   
+  .Aqua{
+    background-color: #00FFFF;
+  }
+  
+  .AntiqueWhite{
+    background-color: #F0F8FF;
+  }
+  
+  .gray{
+    background-color: #808080;
+  }
+
+  .gold{
+    background-color: #ffd700;
+  }
+
+  .goldenrod{
+    background-color: #daa520;
+  }
+  
+  table,td,th{
+    text-align: center;
+    font-size: 25px;
+    border: 1px solid black;
+  }
+  
+  body{
+    padding-left: 90px;
+    text-align: center;
+  }
+  
+  [name="1"]{
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  [name="3"]{
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  [name="4"]{
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  
